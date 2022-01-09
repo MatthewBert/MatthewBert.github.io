@@ -18,7 +18,7 @@ body {
 }
 
 #content{
-    margin-top: 4em;
+    margin-top: 3em;
 }
 
 #DShr{
@@ -28,6 +28,7 @@ body {
 #contact{
     margin-top: 4em;
     margin-bottom: 4em;
+    padding-bottom: 10px;
 }
 
 #inline{
@@ -59,4 +60,14 @@ body {
     font-size: 3em;
     text-align: center;
     padding-bottom: 5%;
+}
+
+#sidebit{
+    color: grey ;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+html {
+    scroll-behavior: smooth;
 }
