@@ -59,13 +59,22 @@ body {
 #portfolioText{
     font-size: 3em;
     text-align: center;
-    padding-bottom: 5%;
+    padding-bottom: 2rem;
+}
+#portfolioTextSubtitle{
+    text-align: center;
+    margin: 0;
+    margin-bottom: 3rem;
 }
 
 #sidebit{
     color: grey ;
     padding-left: 1em;
     padding-right: 1em;
+}
+
+.subtitle{
+    color: black;
 }
 
 html {
